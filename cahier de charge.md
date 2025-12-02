@@ -9,6 +9,7 @@ l'objectif principal de notre projet est developper une application de gestion d
 cette application sera destinee aux etablissements scolaires telques les lycees, les universites, les colleges... et doit offir une interface simple, intuitive et securisee, utilisable sur windows et portable.
 
 
+
 2-OBEJECTIF DU SYSTEME
 
      Notre système a plusieurs objectifs et nous pouvons les classer en plusieurs catégories parmi lesquelles :
@@ -24,23 +25,31 @@ cette application sera destinee aux etablissements scolaires telques les lycees,
      En somme , notre système a pour principal objectif d’automatiser,centraliser et sécuriser le suivi des performances académiques des apprenants , tout en facilitant le travail des professeurs et des administrateurs .
 
 
+
 3. Environnement technique
 _(Ange Michelle)_
+
 
 4. Objectifs techniques
 _(Ange Michelle)_
 
+
 5. Utilisateurs et acteurs
 _(Divine la f..)_
+
 
 6. Diagramme du contexte
 _(PRISCA)_
 
+
 7. Cas d'utilisation
 _(SERENA Divine)_
 
+
 8. Besoins fonctionnels
 _(Linda)_
+
+
 
 9-OUTILS UTILISES
 
@@ -71,6 +80,7 @@ qui seera notre dossier de sauvegarde des version
 --Documentation
 - Markdown (.md) sur GitHub : pour rédiger le cahier des charges et la documentation technique.
 - Google Docs (en option) : pour la rédaction collaborative temporaire.
+
 
 
 
