@@ -11,15 +11,11 @@ cette application sera destinee aux etablissements scolaires telques les lycees,
 
 2-OBEJECTIF DU SYSTEME
 
-//AROLD
-PROJET INF151 :GESTION DE NOTES
-SOUS TACHE : OBJECTIFS DU SYSTÈME
-
      Notre système a plusieurs objectifs et nous pouvons les classer en plusieurs catégories parmi lesquelles :
 -Objectifs techniques et fonctionnels :
        .Automatiser les calculs:générer automatiquement les. moyennes,classements,coefficients,et bulletins réduisant les erreurs humaines ;
        .Gagner du temps:alléger les charges administratives du personnel éducatif et des enseignants ;
-        .Assurer la sécurité des données:protéger les informations sensibles grâce à des systèmes d’authentification et de sauvegarde .
+       .Assurer la sécurité des données:protéger les informations sensibles grâce à des systèmes d’authentification et de sauvegarde .
 -Objectifs pédagogiques et organisations :
        .Centraliser les données académiques:regrouper toutes les notes,moyennes,appréciations et bulletins dans une base de données unique et accessible ;
        .Suivre la progression des élèves:permettre une visualisation claire de l’évolution des résultats au fil des trimestres ou semestres ;
@@ -28,30 +24,35 @@ SOUS TACHE : OBJECTIFS DU SYSTÈME
      En somme , notre système a pour principal objectif d’automatiser,centraliser et sécuriser le suivi des performances académiques des apprenants , tout en facilitant le travail des professeurs et des administrateurs .
 
 
+3. Environnement technique
+_(Ange Michelle)_
 
+4. Objectifs techniques
+_(Ange Michelle)_
 
-3-ACTEURS ET UTILISATEURS 
+5. Utilisateurs et acteurs
+_(Divine la f..)_
 
-//DIVINE LA F.
+6. Diagramme du contexte
+_(PRISCA)_
 
+7. Cas d'utilisation
+_(SERENA Divine)_
 
-4-BESIONS FONCTIONNELS
+8. Besoins fonctionnels
+_(Linda)_
 
-//ME
+9. Outils utilisés
+_(Rayan)_
 
+10. Problèmes possibles
+_(Suzanne)_
 
-5-BESOIN NON FONCTIONNELS
+11. Livrables attendus
+_(Martine)_
 
-//FREDY 
-
-
-6-CONTRAINTES TECHNIQUES 
-
-//ANGE MICHELLE
-
-7-MAQUETTE 
-
-//DIVINE LE DELEGUE et EBEN
+12. Maquettes / Interfaces
+_(Ben et Divine Ides)_
 
 
 
