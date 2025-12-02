@@ -93,15 +93,15 @@ _(Linda)_
 
 9-OUTILS UTILISES
 
-Pour le développement et la gestion du projet d’application de gestion de notes, onvas utiliser de nombreux outils qui sont entre autre :
+Pour le développement et la gestion du projet d’application de gestion de notes, on vas utiliser de nombreux outils qui sont entre autre :
 
 --Environnement de developpement
 
 qui est l'ensemble des logiciels utilises pour coder notre application. nous auront besoin de :
 
-- Visual Studio Code : éditeur de code principal.
-- Java : langage principal pour l’application (version recommandée : Java 17 ou +).
-- JavaFX : pour la création de l’interface utilisateur (GUI).
+- Visual Studio Code : éditeur de code dans lequel notre application sera coder
+- Java : langage principal pour l’application 
+- JavaFX : pour la création de l’interface utilisateur 
 
 --Gestion de version
 
@@ -111,15 +111,14 @@ qui seera notre dossier de sauvegarde des version
 - GitHub : hébergement du dépôt et collaboration entre les membres via les branches, commits, pull requests.
 
 --Base de données
-- SQLite (ou MySQL en cas d’extension future) : pour stocker les informations sur les étudiants, matières, notes, etc.
+- SQLite  : pour stocker les informations sur les étudiants, matières, notes et les autres informations
 
 --Design / Maquettes
-- Figma : pour concevoir l’interface utilisateur avant le codage.
-- Draw.io : pour les schémas UML (diagrammes de classes, cas d’utilisation, etc.).
+- Figma : pour concevoir l’interface utilisateur avant le codage
+- Draw.io : pour les schémas 
 
 --Documentation
-- Markdown (.md) sur GitHub : pour rédiger le cahier des charges et la documentation technique.
-- Google Docs (en option) : pour la rédaction collaborative temporaire.
+- Markdown sur GitHub : fichier d'extension ".md" sur github pour rédiger le cahier des charges et la documentation technique
 
 
 
