@@ -42,16 +42,45 @@ _(SERENA Divine)_
 8. Besoins fonctionnels
 _(Linda)_
 
-9. Outils utilisés
-_(Rayan)_
+9-OUTILS UTILISES
+
+Pour le développement et la gestion du projet d’application de gestion de notes, onvas utiliser de nombreux outils qui sont entre autre :
+
+--Environnement de developpement
+
+qui est l'ensemble des logiciels utilises pour coder notre application. nous auront besoin de :
+
+- Visual Studio Code : éditeur de code principal.
+- Java : langage principal pour l’application (version recommandée : Java 17 ou +).
+- JavaFX : pour la création de l’interface utilisateur (GUI).
+
+--Gestion de version
+
+qui seera notre dossier de sauvegarde des version
+
+- Git : pour le suivi des modifications du code source.
+- GitHub : hébergement du dépôt et collaboration entre les membres via les branches, commits, pull requests.
+
+--Base de données
+- SQLite (ou MySQL en cas d’extension future) : pour stocker les informations sur les étudiants, matières, notes, etc.
+
+--Design / Maquettes
+- Figma : pour concevoir l’interface utilisateur avant le codage.
+- Draw.io : pour les schémas UML (diagrammes de classes, cas d’utilisation, etc.).
+
+--Documentation
+- Markdown (.md) sur GitHub : pour rédiger le cahier des charges et la documentation technique.
+- Google Docs (en option) : pour la rédaction collaborative temporaire.
+
+
 
 10. Problèmes possibles
 _(Suzanne)_
 
-11. Livrables attendus
+12. Livrables attendus
 _(Martine)_
 
-12. Maquettes / Interfaces
+13. Maquettes / Interfaces
 _(Ben et Divine Ides)_
 
 
