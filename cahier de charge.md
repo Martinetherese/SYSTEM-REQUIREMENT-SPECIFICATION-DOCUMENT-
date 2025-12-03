@@ -179,6 +179,14 @@ _(Suzanne)_
 
 12. Livrables attendus
 _(Martine)_
+Tâche : Livrables Attendus.
+Un Livrable Attendu est un résultat tangible ou intangible qui est attendu à la fin d'un projet. Ainsi , les différents résultats attendus sont entre autre :
+-Un système de gestion de notes en ligne sécurisé et facile à utiliser ;
+-Une plateforme qui permet aux Étudiants de consulter leurs notes en temps réel ;
+
+Un outil qui permet aux enseignants de saisir et de gérer les notes de manière efficace ;
+-Un système de notification sui informe les étudiants et les enseignants des mises à jour des notes.
+Comme autres Livrables on peut citer les manuels pour les étudiants et les enseignants , un plan de maintenance pour assurer la pérennité du système.
 
 13. Maquettes / Interfaces
 _(Ben et Divine Ides)_
