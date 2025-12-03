@@ -82,9 +82,7 @@ Un acteur est une entité qui interagit avec le système il peut s’agir d’un
 _(PRISCA)_
 
 
-7. Cas d'utilisation
-_(SERENA Divine)_
-
+7-CAS D'UTILISATION
 
 Un système de gestion de notes est utilisé par plusieurs acteurs pour saisir, traiter, stocker et consulter les résultats académiques des étudiants. 
 
