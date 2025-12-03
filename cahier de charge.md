@@ -1,4 +1,4 @@
-*APPLICATION DE GESTION DE NOTE*
+APPLICATION DE GESTION DE NOTE
 
 Version:1.0.0
 
@@ -84,6 +84,36 @@ _(PRISCA)_
 
 7. Cas d'utilisation
 _(SERENA Divine)_
+
+
+Un système de gestion de notes est utilisé par plusieurs acteurs pour saisir, traiter, stocker et consulter les résultats académiques des étudiants. 
+
+Listons les différents  cas d'utilisation, organisés par acteur :
+
+ENSEIGNANT:
+Ses cas d'utilisation incluent : 
+-Saisir les notes : Entrer les résultats des examens, devoirs et évaluations pour les cours dont il a la charge.
+-Modifier les notes : Corriger ou mettre à jour les notes si nécessaire.
+-Consulter les listes d'étudiants : Accéder aux listes des élèves inscrits dans ses classes.
+-Calculer les moyennes ;
+Publier les notes : Rendre les notes et les résultats accessibles aux élèves et aux parents sur la plateforme. 
+
+ETUDIANT:
+
+ Ses cas d'utilisation sont : 
+ 
+-Consulter ses notes : Accéder à ses résultats détaillés pour toutes les matières et tous les examens.
+-Suivre sa progression : Visualiser l'évolution de ses moyennes au fil du temps.
+-Recevoir des notifications : Être informé de la publication de nouvelles notes ou d'informations importantes. 
+
+ADMINISTRATEUR
+
+L'administrateur a un rôle de supervision et de gestion globale du système. Ses cas d'utilisation incluent : 
+
+-Gérer les comptes utilisateurs : Créer, modifier ou supprimer les comptes des enseignants et des étudiants.
+-Générer des rapports et des bulletins : Produire des documents officiels comme les relevés de notes semestriels ou annuels.
+-Paramétrer le système : Définir les barèmes de notation, les coefficients des matières, et d'autres règles de gestion.
+-Sauvegarder les données : Assurer la sécurité et l'archivage des données scolaires. 
 
 
 8. Besoins fonctionnels
